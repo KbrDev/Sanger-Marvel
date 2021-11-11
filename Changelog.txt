@@ -1,0 +1,71 @@
+Version 0.1.1 (04/04/2021) [current]
+
+700 Lines of Code
+24000 Letters
+2448 Words
+21 Passages
+12 Images
+
+-Scenes 2-5 created
+-Exclusion of Internal widgets passage
+    -Reclassification of certain macros
+-PassDay macro added
+    -NewDaySetter internal macro
+-"Edit Game Characters" updated
+-Added Virgin property to characters
+-Reactive chat widget improvements
+
+Unpublished Pre-Alpha Phase
+
+Version 0.0.2 (28/03/2021)
+
+628 Lines of Code
+18940 Letters
+1864 Words
+20 Passages
+8 Images
+
+-Improvements on chat macro
+    -Stablishment of character specific CSS styling
+    -Corrected dynamic styling
+    -Characters portraits added
+-Character Menu added on UI Bar
+    -Corrected initiation error
+    -Button on StoryCaption
+    -CharRow and GrandProfile macros
+-Energy and Money system development
+    -Energy set as an independant variable
+    -Purchase Widget created
+-Choice macros created
+-Choice, Decision and ConditionalChoice
+-Padronized Image size and format
+-Added changelog
+-Scene 1 created as a proof of concept
+
+Version 0.0.1 (16/03/2021)
+
+376 Lines of Code
+9304 Letters
+954 Words
+12 Passages
+1 Images
+
+-Creation of Main Menu
+    -Establishment of submenu links
+    -Metadata exhibition
+-Creation of StoryInit
+    -Creation of metadata and character variables
+-Creation of StoryCaption
+    -Money balance
+    -Energy system
+    -Level system
+-Creation of StorySubtitle
+    -Author declaration
+    -Metadata exhibition
+-Creation of Basic Mechanics
+    -Verify level macro
+    -Pass time macro
+    -Chat, body and thought macros
+-Stating variables as sets of subvariables
+-Alterations on Main Menu
+    -Configuration implementation section
